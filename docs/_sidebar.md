@@ -2,3 +2,4 @@
   * [Cover page](cover.md)
   * [Guide](guide.md "The greatest guide in the world")
   * [Changelog](changelog.md)
+  * [Makeless](/Makeless)
