@@ -1,3 +1,4 @@
+.DS_Store
 .venv*
 venv
 .env
@@ -5,4 +6,3 @@ venv
 *.swp
 *.egg-info
 __pycache__
-.DS_Store
