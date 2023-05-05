@@ -1,3 +1,3 @@
-# Headline
+# Personal blog project.
 
-> An awesome project.
+23.05: Hosting Obsidian notes.
